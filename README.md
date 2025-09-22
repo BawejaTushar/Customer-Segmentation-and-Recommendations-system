@@ -11,7 +11,6 @@ The primary goals of this project are:
 - To explore and clean the raw transactional data.
 - To perform customer segmentation using behavioral patterns.
 - To create a product recommendation system.
-- To provide business insights for improving customer satisfaction and sales.
 
 ---
 
